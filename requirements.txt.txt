@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+math
+scipy
+random
